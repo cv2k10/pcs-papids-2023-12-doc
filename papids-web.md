@@ -27,7 +27,7 @@ maintenance personnel to control and operates both PA and PIDS modules in the sy
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Screenshots
-![Sample of Station Control Tab](/public/img/station_control.jpg)
+![Sample of Station Control Tab](/station_control.jpg)
 
 ## Technologies
 `html`, `css`, `scss`, `react.js`, `react redux`, `javascript`, `docker`, ` github ci/cd pipeline`, `react testing library`
