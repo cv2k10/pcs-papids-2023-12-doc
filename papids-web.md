@@ -1,5 +1,5 @@
-# Project Title
-LRT3-PAPIDS Front End System
+## Project Title
+# LRT3-PAPIDS Front End System
 
 ## Demo link:
 Access the site publicly at: (http://dev.pa-pids.com)
