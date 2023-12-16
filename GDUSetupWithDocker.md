@@ -3,7 +3,7 @@
 
 ## Table of Content:
 
-- [About The App](#about-the-app)
+- [About The Installation](#about-the-app)
 - [Setup Files](#screenshots)
 - [Installation folders](#technologies)
 - [Installation Steps](#react-app-setup)
@@ -14,7 +14,7 @@ LRT3-PAPIDS PIDS System docker installation files
 
 ## Setup Files
 The installation folder is located at C:\pcs-lrt3-release\pids location on the testing workstation in the PCS office.
-![web-docker-setup-files](web-docker-setup-files.png)
+![web-docker-setup-files](pids-docker-setup-files.png)
 
 
 ## Installation folders
